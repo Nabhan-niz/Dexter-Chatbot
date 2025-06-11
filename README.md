@@ -88,5 +88,5 @@ Thumbs.db
 .env
 
 # Sample Output
-<img src="https://raw.githubusercontent.com/Nabhan-niz//Dexter-Chatbot/blob/main/output.png" width="500">
+<img src="output.png" width="500">
 
