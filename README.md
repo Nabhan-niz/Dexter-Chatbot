@@ -88,5 +88,5 @@ Thumbs.db
 .env
 
 # Sample Output
-
+<img src="https://raw.githubusercontent.com/Nabhan-niz/Travel2day/main/travel3day.jpg" width="500">
 
